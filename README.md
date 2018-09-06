@@ -8,9 +8,11 @@ Chris Brownell (ckb77)
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+
 5.0V +/- 0.2V
 
 **b. What voltage level do you need to power the display backlight?**
+
 3.2V +/- 0.15V
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
