@@ -1,5 +1,7 @@
 /* Rotary encoder test code printing to LCD screen
- * Modified from https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Rotary-Encoder-test-Code by Jessica Faruque
+ * Modified from 
+ * https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Rotary-Encoder-test-Code
+ * by Jessica Faruque
  * Modified by Chris Brownell 9/9/2018
  * 
  */
