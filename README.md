@@ -93,7 +93,8 @@ void loop() {
 
 [Rotary Encoder Video](https://drive.google.com/file/d/15SfUtqe1EwgN0s9-FLvbpygG3XojwMJP/view?usp=sharing)
 
-I modified the test code to print the output value to the LCD. 
+I modified the test code to print the output value to the LCD.
+
 [Modified Encoder Test Code](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/Lab2-Encoder-Test.ino)
 
 
@@ -121,10 +122,10 @@ The main theme from Star Wars!
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
 Based on my idea #7 from the [pre-lab](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/blob/master/README.md) I made a ten second lottery.
-Using the encoder, a lottery contestent can select a number between 0 and 10. The lottery is drawn every 10 seconds and 
-if the contestant guesses correctly, they hear a happy sound and see a winning message on the LCD screen. If the contestant
-guesses incorrectly, they hear a sad sound and see a losing message. If the contestant chooses 0, it is treated as 
-a non-attempt and no sound or message are displayed.
+Using the encoder, a lottery contestant can select a number between 0 and 10. The lottery is randomly drawn every 10 
+seconds and if the contestant guesses correctly, they hear a happy sound and see a winning message on the LCD screen. 
+If the contestant guesses incorrectly, they hear a sad sound and see a losing message. If the contestant chooses 0, 
+it is treated as a non-attempt and no sound or message is displayed.
 
 ![lotto setup](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/Lotto_Setup.JPG)
 
