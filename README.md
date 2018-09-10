@@ -119,14 +119,19 @@ The main theme from Star Wars!
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
 Based on my idea #7 from the [pre-lab](https://github.com/chrisbrownell/IDD-Fa18-Lab2-Prep/blob/master/README.md) I made a ten second lottery.
 Using the encoder, a lottery contestent can select a number between 0 and 10. The lottery is drawn every 10 seconds and 
 if the contestant guesses correctly, they hear a happy sound and see a winning message on the LCD screen. If the contestant
 guesses incorrectly, they hear a sad sound and see a losing message. If the contestant chooses 0, it is treated as 
 a non-attempt and no sound or message are displayed.
 
+![lotto setup](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/Lotto_Setup.JPG)
+
 [Video of 10 second lotto](https://drive.google.com/file/d/1rbYHCPNlthieoLMdHhPXIoVl1CIGcKNQ/view?usp=sharing)
 
 [Arduino Sketch for 10 second lotto](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/Lab2-10s-Lottery.ino)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
+
+Done :)
