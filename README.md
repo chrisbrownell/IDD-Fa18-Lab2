@@ -129,7 +129,7 @@ it is treated as a non-attempt and no sound or message is displayed.
 
 ![lotto setup](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/Lotto_Setup.JPG)
 
-[Video of 10 second lotto](https://drive.google.com/file/d/1rbYHCPNlthieoLMdHhPXIoVl1CIGcKNQ/view?usp=sharing)
+[Video of classmate Siqi using 10 second lotto](https://drive.google.com/file/d/1llaY63jMgRhvXCYS9pgp5R3nMzeraqje/view?usp=sharing)
 
 [Arduino Sketch for 10 second lotto](https://github.com/chrisbrownell/IDD-Fa18-Lab2/blob/master/Lab2-10s-Lottery.ino)
 
