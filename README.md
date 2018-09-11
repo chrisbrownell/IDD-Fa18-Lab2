@@ -19,7 +19,7 @@ Chris Brownell (ckb77)
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
 I didn't connect power and ground rails on the left and right halves of the long breadboard at first so the rails were not 
-functioning as expected.
+functioning as expected. Once I connected them (see image above) everything worked as expected.
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
 
@@ -102,7 +102,7 @@ I modified the test code to print the output value to the LCD.
 
 **a. How would you change the code to make the song play twice as fast?**
 
-Divide all the values in noteDurations[] by 2. Or to make things simpler, modify this line:
+Multiply all the values in noteDurations[] by 2. Or to make things simpler, modify this line:
 ```
 int noteDuration = 1000 / noteDurations[thisNote];
 ```
